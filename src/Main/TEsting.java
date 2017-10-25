@@ -26,9 +26,9 @@ public class TEsting {
 		Customer customer = new Customer();
 		customer.setAccount(new Account(100));
 		customer.setAccount(new Account(200));
-		/*ForCustomer.setCustomer(customer);
+		ForCustomer.setCustomer(customer);
 		BankChatRoom.main(args);
-	    */
+	    
 	    
 	}
 
